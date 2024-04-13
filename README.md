@@ -1,6 +1,3 @@
-Sure, here's how you can structure the `README.md` file for GitHub pages using HTML, CSS, and JavaScript:
-
-```markdown
 # Kalwa Eswar
 
 Email: kalwaeswar123@gmail.com  
@@ -8,7 +5,7 @@ Contact Number: +91 9502144036
 
 ## Career Objective
 
-As a fresh B.Tech (CSE) graduate, I'm dedicated to launching my career in the tech industry. Seeking a role to apply my technical skills and enthusiasm for innovation in a collaborative team environment, I aspire to contribute to impactful software solutions while continuously learning and growing professionally.
+As a fresh B. Tech (CSE) graduate, I'm dedicated to launching my career in the tech industry. Seeking a role to apply my technical skills and enthusiasm for innovation in a collaborative team environment, I aspire to contribute to impactful software solutions while continuously learning and growing professionally.
 
 ## Academic Profile
 
@@ -26,18 +23,18 @@ As a fresh B.Tech (CSE) graduate, I'm dedicated to launching my career in the te
 ## Projects
 
 1. **Neural Style Transfer**
-   - Description: A deep learning project which takes the style from one input image and adds that style to another input image, providing the superimposed output.
+   - Description: A deep learning project that takes the style from one input image and adds that style to another input image, providing the superimposed output.
    - Technologies Used: Python, TensorFlow, Keras, and some prebuilt modules.
 
 2. **Heart Disease Prediction System**
-   - Description: This Machine Learning Application predicts whether a person is suffering from heart disease or not. Covers most of the famous machine learning algorithms.
+   - Description: This Machine Learning Application predicts whether a person is suffering from heart disease or not. Covers most of the famous machine-learning algorithms.
    - Technologies Used: Machine Learning
 
 ## Certifications
 
 - Certified in Preliminary English Test conducted by Cambridge University.
-- Certified in BEC Vantage Test conducted by Cambridge University.
-- Certified in "Machine Learning" course by Microsoft.
+- Certified in the BEC Vantage Test conducted by Cambridge University.
+- Certified in the "Machine Learning" course by Microsoft.
 - Certified in "AI fundamentals (AI-900)" by Microsoft.
 - Certified in "Principles of Management" course by NPTEL.
 
@@ -56,7 +53,7 @@ As a fresh B.Tech (CSE) graduate, I'm dedicated to launching my career in the te
 ## Achievements
 
 - Active participant in HackerRank challenges.
-- Completed internship at BharathIntern in Machine Learning using Python.
+- Completed internship at Bharthe athIntern in Machine Learning using Python.
 - Acquired Certifications in Python, Java, and problem-solving basics by HackerRank.
 
 ## Strengths
@@ -89,6 +86,4 @@ Date: 29-08-2023
 Place: Vadlamudi  
 
 KALWA ESWAR
-```
 
-After creating this `README.md`, you can create an `index.html` file in your repository, and with HTML, CSS, and JavaScript, you can design it and publish it using GitHub Pages.
