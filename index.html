@@ -4,15 +4,120 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kalwa Eswar</title>
+    <title>Kalwa Eswar - Resume</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
         body {
             background-color: #f8f9fa;
+            font-family: Arial, sans-serif;
         }
 
         .container {
             margin-top: 50px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 36px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th,
+        td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            margin-bottom: 10px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        ol {
+            padding-left: 20px;
+            margin-bottom: 10px;
+        }
+
+        .project-item {
+            margin-bottom: 20px;
+        }
+
+        .project-item h3 {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .project-item p {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        .certifications-item {
+            margin-bottom: 10px;
+        }
+
+        .certifications-item:before {
+            content: "• ";
+            color: #333;
+        }
+
+        .activities-item {
+            margin-bottom: 5px;
+        }
+
+        .activities-item:before {
+            content: "• ";
+            color: #333;
+        }
+
+        .strengths-item {
+            margin-bottom: 5px;
+        }
+
+        .strengths-item:before {
+            content: "• ";
+            color: #333;
+        }
+
+        .social-links a {
+            display: inline-block;
+            margin-right: 10px;
+            color: #333;
         }
     </style>
 </head>
@@ -20,7 +125,7 @@
 <body>
     <div class="container">
         <header>
-            <h1 class="text-center">Kalwa Eswar</h1>
+            <h1>Kalwa Eswar</h1>
         </header>
 
         <section id="contact-info">
@@ -89,12 +194,12 @@
         <section id="projects">
             <h2>Projects</h2>
             <ol>
-                <li>
+                <li class="project-item">
                     <h3>Neural Style Transfer</h3>
                     <p>Description: A deep learning project which takes the style from one input image and adds that style to another input image, providing the superimposed output.</p>
                     <p>Technologies Used: Python, TensorFlow, Keras, and some prebuilt modules.</p>
                 </li>
-                <li>
+                <li class="project-item"></li>
                     <h3>Heart Disease Prediction System</h3>
                     <p>Description: This Machine Learning Application predicts whether a person is suffering from heart disease or not. Covers most of the famous machine learning algorithms.</p>
                     <p>Technologies Used: Machine Learning</p>
@@ -105,50 +210,50 @@
         <section id="certifications">
             <h2>Certifications</h2>
             <ul>
-                <li>Certified in Preliminary English Test conducted by Cambridge University.</li>
-                <li>Certified in BEC Vantage Test conducted by Cambridge University.</li>
-                <li>Certified in "Machine Learning" course by Microsoft.</li>
-                <li>Certified in "AI fundamentals (AI-900)" by Microsoft.</li>
-                <li>Certified in "Principles of Management" course by NPTEL.</li>
+                <li class="certifications-item">Certified in Preliminary English Test conducted by Cambridge University.</li>
+                <li class="certifications-item">Certified in BEC Vantage Test conducted by Cambridge University.</li>
+                <li class="certifications-item">Certified in "Machine Learning" course by Microsoft.</li>
+                <li class="certifications-item">Certified in "AI fundamentals (AI-900)" by Microsoft.</li>
+                <li class="certifications-item">Certified in "Principles of Management" course by NPTEL.</li>
             </ul>
         </section>
 
         <section id="co-curricular-activities">
             <h2>Co-Curricular Activities</h2>
             <ul>
-                <li>Presented an idea on a business model in Ideathon.</li>
-                <li>Participation in IPR seminars.</li>
+                <li class="activities-item">Presented an idea on a business model in Ideathon.</li>
+                <li class="activities-item">Participation in IPR seminars.</li>
             </ul>
         </section>
 
         <section id="extra-curricular-activities">
             <h2>Extra-Curricular Activities</h2>
             <ul>
-                <li>Member of Team E-CELL (SECRETARY)</li>
-                <li>KARATE</li>
-                <li>Coordinated for VISIT 2023</li>
-                <li>Coordinated for BharthPitchathon 2.0</li>
+                <li class="activities-item">Member of Team E-CELL (SECRETARY)</li>
+                <li class="activities-item">KARATE</li>
+                <li class="activities-item">Coordinated for VISIT 2023</li>
+                <li class="activities-item">Coordinated for BharthPitchathon 2.0</li>
             </ul>
         </section>
 
         <section id="achievements">
             <h2>Achievements</h2>
             <ul>
-                <li>Active participant in HackerRank challenges.</li>
-                <li>Completed internship at BharathIntern in Machine Learning using Python.</li>
-                <li>Acquired Certifications in Python, Java, and problem-solving basics by HackerRank.</li>
+                <li class="activities-item">Active participant in HackerRank challenges.</li>
+                <li class="activities-item">Completed internship at BharathIntern in Machine Learning using Python.</li>
+                <li class="activities-item">Acquired Certifications in Python, Java, and problem-solving basics by HackerRank.</li>
             </ul>
         </section>
 
         <section id="strengths">
             <h2>Strengths</h2>
             <ul>
-                <li>Team Work</li>
-                <li>Helping Nature</li>
-                <li>Effective Communications</li>
-                <li>Marketing skills</li>
-                <li>Self Motivated</li>
-                <li>Leadership</li>
+                <li class="strengths-item">Team Work</li>
+                <li class="strengths-item">Helping Nature</li>
+                <li class="strengths-item">Effective Communications</li>
+                <li class="strengths-item">Marketing skills</li>
+                <li class="strengths-item">Self Motivated</li>
+                <li class="strengths-item">Leadership</li>
             </ul>
         </section>
 
@@ -165,9 +270,7 @@
 
         <section id="social-links">
             <h2>Social Links</h2>
-            <ul
-
->
+            <ul class="social-links"></ul>
                 <li><a href="https://www.linkedin.com/in/kalwa-eswar-a79883227/">LinkedIn</a></li>
                 <li><a href="https://github.com/kalwaeswar">GitHub</a></li>
             </ul>
@@ -188,3 +291,4 @@
 </body>
 
 </html>
+
