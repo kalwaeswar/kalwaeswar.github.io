@@ -27,7 +27,7 @@ As a fresh B. Tech (CSE) graduate, I'm dedicated to launching my career in the t
    - Technologies Used: Python, TensorFlow, Keras, and some prebuilt modules.
 
 2. **Heart Disease Prediction System**
-   - Description: This Machine Learning Application predicts whether a person is suffering from heart disease or not. Covers most of the famous machine-learning algorithms.
+   - Description: This Machine Learning Application predicts whether a person suffers from heart disease. It covers most of the famous machine-learning algorithms.
    - Technologies Used: Machine Learning
 
 ## Certifications
@@ -36,7 +36,7 @@ As a fresh B. Tech (CSE) graduate, I'm dedicated to launching my career in the t
 - Certified in the BEC Vantage Test conducted by Cambridge University.
 - Certified in the "Machine Learning" course by Microsoft.
 - Certified in "AI fundamentals (AI-900)" by Microsoft.
-- Certified in "Principles of Management" course by NPTEL.
+- Certified in the "Principles of Management" course by NPTEL.
 
 ## Co-Curricular Activities
 
