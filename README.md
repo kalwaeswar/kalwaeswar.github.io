@@ -1,89 +1,107 @@
 # Kalwa Eswar
 
-Email: kalwaeswar123@gmail.com  
-Contact Number: +91 9502144036  
+**Email**: [kalwaeswar123@gmail.com](mailto:kalwaeswar123@gmail.com)  
+**Contact Number**: +91 9502144036  
+
+---
 
 ## Career Objective
 
-As a fresh B. Tech (CSE) graduate, I'm dedicated to launching my career in the tech industry. Seeking a role to apply my technical skills and enthusiasm for innovation in a collaborative team environment, I aspire to contribute to impactful software solutions while continuously learning and growing professionally.
+As a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, I am eager to launch my career in the tech industry. I aim to leverage my technical expertise, enthusiasm for innovation, and collaborative mindset to contribute to impactful software solutions while growing professionally.
+
+---
 
 ## Academic Profile
 
-| S.NO | Course | School / College | University / Board | Duration of study | Percentage / CGPA |
-|------|--------|-------------------|--------------------|-------------------|-------------------|
-| 1.   | B. TECH (CSE – ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING) | VFSTR, Vadlamudi | University | 2021-2025 | 86.00% (Till 2-2) |
-| 2.   | INTERMEDIATE M.P.C | Sri Chaitanya Junior College, Bongloor, Hyderabad, Telangana | Board of Intermediate Education, TS | 2019-2021 | 98.2% |
-| 3.   | S.S.C | Chaitanya Central School, Mahabubnagar, Telangana | CBSE | 2018-2019 | 73.4% |
+| S.No | Course                                           | School / College                         | University / Board                 | Duration        | Percentage / CGPA |
+|------|--------------------------------------------------|------------------------------------------|------------------------------------|-----------------|--------------------|
+| 1    | B.Tech (CSE – Artificial Intelligence and ML)    | VFSTR, Vadlamudi                         | VFSTR University                   | 2021-2025       | 8.6 (Till Semester 2-2) |
+| 2    | Intermediate (M.P.C)                             | Sri Chaitanya Junior College, Hyderabad | Board of Intermediate Education, TS | 2019-2021       | 98.2%             |
+| 3    | S.S.C                                            | Chaitanya Central School, Mahabubnagar   | CBSE                               | 2018-2019       | 73.4%             |
+
+---
 
 ## Technical Skills
 
-- Programming Languages: Python, JAVA
-- Database: MySQL
+- **Programming Languages**: Python, C++
+- **Database**: SQL
+- **Cloud Services**: Microsoft Azure
+- **Web Technologies**: HTML5, CSS, JavaScript
+- **Tools**: Git & GitHub, VS Code, Jupyter Notebook, PyCharm, Azure Portal, TensorFlow, Streamlit
+
+---
 
 ## Projects
 
-1. **Neural Style Transfer**
-   - Description: A deep learning project that takes the style from one input image and adds that style to another input image, providing the superimposed output.
-   - Technologies Used: Python, TensorFlow, Keras, and some prebuilt modules.
+1. **Neural Style Transfer**  
+   *Developed a deep learning-based application for artistic style transfer between images, deployed with Streamlit.*  
+   **Technologies**: Python, TensorFlow, Streamlit  
 
-2. **Heart Disease Prediction System**
-   - Description: This Machine Learning Application predicts whether a person suffers from heart disease. It covers most of the famous machine-learning algorithms.
-   - Technologies Used: Machine Learning
+2. **Brain Tumor Recognition**  
+   *Built a CNN model for MRI-based brain tumor classification, with a web interface for easy access.*  
+   **Technologies**: Python, TensorFlow, Streamlit  
+
+3. **Custom Document Intelligence Information Extraction**  
+   *Developed an Azure-based tool to extract specific information from documents.*  
+   **Technologies**: Microsoft Azure, Python, Streamlit  
+
+---
 
 ## Certifications
 
-- Certified in Preliminary English Test conducted by Cambridge University.
-- Certified in the BEC Vantage Test conducted by Cambridge University.
-- Certified in the "Machine Learning" course by Microsoft.
-- Certified in "AI fundamentals (AI-900)" by Microsoft.
-- Certified in the "Principles of Management" course by NPTEL.
+- Business English Certificate Vantage - Cambridge University
+- Azure AI Fundamentals - Microsoft
+- GitHub Foundations - GitHub
+- TensorFlow Developer Certification - TensorFlow
+- Azure AI Engineer Associate - Microsoft
+
+---
 
 ## Co-Curricular Activities
 
-- Presented an idea on a business model in Ideathon.
-- Participation in IPR seminars.
+- Marketing Secretary, Team E-Cell  
+- Coordinated for Ideathon at Srujunankura 2024  
+- Coordinated VISIT 2023, A.C.S.E. department fest  
+- Presented Neural Style Transfer project on National Engineering Day  
 
-## Extra-Curricular Activities
-
-- Member of Team E-CELL (SECRETARY)
-- KARATE
-- Coordinated for VISIT 2023
-- Coordinated for BharthPitchathon 2.0
+---
 
 ## Achievements
 
-- Active participant in HackerRank challenges.
-- Completed internship at Bharthe athIntern in Machine Learning using Python.
-- Acquired Certifications in Python, Java, and problem-solving basics by HackerRank.
+- Active participant in HackerRank challenges  
+- Completed internship at Bharthe athIntern in Machine Learning using Python  
+- Certifications in Python, Java, and problem-solving basics on HackerRank  
+
+---
 
 ## Strengths
 
-- Team Work
-- Helping Nature
-- Effective Communications
-- Marketing skills
-- Self Motivated
-- Leadership
+- Teamwork  
+- Effective Communication  
+- Self-Motivation  
+- Leadership  
 
-## Personal
+---
 
-- Date of Birth: 20-12-2003
-- Father’s Name: K.Vijaya Kumar
-- Nationality: Indian
-- Hobbies: Gym and Fitness, listening to lo-fi music, playing cricket, swimming.
-- Address: MIG-2 244 Housing Board Colony, Mahabubnagar, Telangana
+## Personal Details
+
+- **Date of Birth**: 20-12-2003  
+- **Father’s Name**: K. Vijaya Kumar  
+- **Nationality**: Indian  
+- **Hobbies**: Fitness, listening to lo-fi music, playing cricket, swimming  
+- **Address**: MIG-2 244 Housing Board Colony, Mahabubnagar, Telangana  
+
+---
 
 ## Social Links
 
-- LinkedIn: [Kalwa Eswar](https://www.linkedin.com/in/kalwa-eswar-a79883227/)
-- GitHub: [kalwaeswar](https://github.com/kalwaeswar)
+- LinkedIn: [Kalwa Eswar](https://www.linkedin.com/in/eswar-kalwa-a79883227/)  
+- GitHub: [kalwaeswar](https://github.com/kalwaeswar)  
+
+---
 
 ## Declaration
 
 I hereby declare that the details mentioned above are correct to the best of my knowledge and belief.
 
-Date: 29-08-2023  
-Place: Vadlamudi  
-
-KALWA ESWAR
-
+**Kalwa Eswar**
